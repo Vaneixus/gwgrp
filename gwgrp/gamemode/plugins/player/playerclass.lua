@@ -1,0 +1,1 @@
+player_manager.RegisterClass("player_darkrp", PLAYER_CLASS, "player_sandbox")
